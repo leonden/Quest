@@ -1,6 +1,6 @@
 # Quest I
 
-This is the official source code for the rocket "Quest I" from [name].
+This is the official git repository of the rocket project "Quest I" from [name].
 
 #### This repository includes the following:
 
