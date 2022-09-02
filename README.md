@@ -2,10 +2,12 @@
 
 This is the official source code for the rocket "Quest I" from [name].
 
-#### This repository includes source code for the following parts
+#### This repository includes the following:
 
-- Avionics
-- Flight computer
-- Micro controller
+- Source code
+  - Avionics
+  - Flight computer
+  - Microcontroller
+- Documentation
 
 ### More content is following...
