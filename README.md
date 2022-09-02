@@ -1,6 +1,6 @@
-# Quest I
+# The Quest Program
 
-This is the official git repository of the rocket project "Quest I" from [name].
+This is the official git repository of the Quest program from [name].
 
 #### This repository includes the following:
 
