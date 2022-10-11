@@ -22,8 +22,10 @@ void loop() {
       delay(500);
       digitalWrite(ledRed, LOW);
       delay(500);
+      readIgnitionSwitch = digitalRead(ignitionSwitch);
       if (readIgnitionSwitch == HIGH) {
         digitalWrite(ledRed, LOW);
+        break;
       }
     }
     count++;
