@@ -1,13 +1,12 @@
 # The Quest Program
 
-This is the official git repository of the Quest program from [name].
+This is the official Git repository of the Quest program from [name].
 
 #### This repository includes the following:
 
 - Source code
   - Avionics
-  - Flight computer
-  - Microcontroller
+  - Remote
 - Documentation
 
 ### More content is following...
